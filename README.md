@@ -1,6 +1,4 @@
-# ELK-Stack-Project-By-Briana-Norman
-ELK Stack - Briana Norman Project 
-## ELK Stack Deployment (with automation)
+# ELK Stack Deployment (with automation)
 
 The files in this repository were used to configure the network depicted below.
 ![image](https://github.com/UCB-CyberSecurity-Cohort5/elk-stack-project-Bobbrinksz/blob/main/diagram/Briana%20Norman%20NetWork.jpg)
